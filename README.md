@@ -8,7 +8,7 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 
 #### 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
 
-## My Experience
+<h2 align="center">My Experience</h2>
 
 **Mobile QA Tester Intern** @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
 - Supported QA activities for a mobile-first consumer platform
@@ -16,7 +16,7 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 - Created comprehensive bug reports with detailed root cause analysis and best testing practices research
 - Designed and executed test cases within Agile sprints
 
-## Testing Skills
+<h2 align="center">Testing Skills</h2>
 
 - API, System, UI/UX, DB
 - Functional & Non-functional
@@ -24,7 +24,7 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 - Manual & Automation
 - Mobile & Web
 
-## Programming Languages
+<h2 align="center">Programming Languages</h2>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -32,7 +32,7 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-## Tools
+<h2 align="center">Tools</h2>
 
 **API & Testing Tools:**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -61,7 +61,7 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## Soft Skills
+<h2 align="center">Soft Skills</h2>
 
 - Clear written and verbal communication
 - Strong attention to detail and consistency
@@ -69,7 +69,7 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 - Effective collaboration in Agile teams
 - Time management under tight deadlines
 
-## Courses
+<h2 align="center">Courses</h2>
 
 **🎓 Centennial College (Software Engineering Technician Program)**
 
@@ -88,13 +88,13 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 | Discrete Mathematics | Requirements Gathering, Agile Analysis & Estimation, Design Implementation |
 | Functions & Number Systems | Operations on Real/Rational Numbers, Binary/Octal/Hexadecimal Systems, Linear & Quadratic Equations |
 
-## Certificates
+<h2 align="center">Certificates</h2>
 
 - ISTQB Certified Tester Foundation Level (CTFL)
 - ISTQB Certified Agile Tester (CTFL-AT)
 - Centennial Hackathon Winner (Centennial College) | *AI Chatbot for Student Wellbeing*
 
-## Articles I Read
+<h2 align="center">Articles I Read</h2>
 
 - [Test Case Prioritization: Complete Guide to Techniques, Metrics, and Best Practices](https://www.testrail.com/blog/test-case-prioritization/)
 - [Prioritizing Test Cases: Best Practice for QA Teams](https://www.pixelqa.com/blog/post/prioritizing-test-cases-best-practice-for-qa-teams)
@@ -112,13 +112,13 @@ My name is **Garam Yoon**, a Junior QA Engineer currently interning at Bonniepet
 - [15 Mistakes in E-Commerce Platforms You Can Prevent with Software Testing](https://www.qamadness.com/15-mistakes-in-e-commerce-platforms-you-can-prevent-with-software-testing/)
 - [Critical Software Bugs Every Tester Should Know](https://quashbugs.com/blog/critical-software-bugs-every-tester-should-know)
 
-## My Top 3 Latest Blogs
+<h2 align="center">My Top 3 Latest Blogs</h2>
 
 - [Writing Effective Postman Test Scripts](https://www.notion.so/1e097141ccc38075bc31eb034c0910ef?v=1e097141ccc380219636000c91bf3741&p=2d997141ccc380d9abbbe26c08f8f546&pm=s)
 - [Mastering the Art of "Done": How Clear Acceptance Criteria Drive Better Software Testing](https://www.notion.so/Mastering-the-Art-of-Done-How-Clear-Acceptance-Criteria-Drive-Better-Software-Testing-29197141ccc380188059e2ae296714e5)
 - [The Importance of Negative Path Testing in Acceptance Test-Driven Development](https://www.notion.so/The-Importance-of-Negative-Path-Testing-in-Acceptance-Test-Driven-Development-ATDD-29397141ccc38095adcdf838f49ca42d)
 
-## IT Groups / Communities I Follow
+<h2 align="center">IT Groups / Communities I Follow</h2>
 
 - [The Test Tribe Toronto](https://www.thetesttribe.com/)
 - [IEEE Engineering Club | Centennial College](https://edu.ieee.org/ca-centennial-college/)
