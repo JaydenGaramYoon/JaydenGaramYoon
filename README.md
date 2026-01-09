@@ -27,7 +27,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 - Created comprehensive bug reports with detailed root cause analysis and best testing practices research
 - Designed and executed test cases within Agile sprints
 
-<h2 align="center">Skills & Tools</h2>
+<h2 align="center">Skills & Languages & Tools</h2>
 
 ### Testing Skills
 - API, System, UI/UX, Database Testing
