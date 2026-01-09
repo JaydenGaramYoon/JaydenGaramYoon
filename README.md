@@ -1,6 +1,8 @@
-# Hi, there! I'm Garam Yoon
+<div>
+    <img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px;" />
+</div>
 
-<img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px;" />
+# Hi, there! I'm Garam Yoon
 *Software QA Tester/Engineer*
 <br /> 
 
