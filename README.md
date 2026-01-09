@@ -21,7 +21,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <h2 align="center">Experience</h2>
 
-**Mobile QA Tester Intern** @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
+**Software QA Tester Intern** @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
 - Supported QA activities for a mobile-first consumer platform
 - Executed functional, regression, and negative-path testing across core workflows
 - Created comprehensive bug reports with detailed root cause analysis and best testing practices research
