@@ -2,7 +2,12 @@
 
 ## About Me
 
-I'm Garam Yoon, a Junior QA Engineer currently interning at Bonniepet, where I focus on mobile-first testing and quality assurance. I'm drawn to building reliable software through thoughtful testing practices—whether that's designing comprehensive test cases, documenting bugs systematically, or collaborating with teams to improve product quality. Beyond my day-to-day work, I read widely about QA and testing, and I'm actively exploring AI, data, and cloud technologies. These emerging areas intrigue me, and I'm committed to building expertise across them as I grow as an engineer.
+<div style="display: flex; gap: 30px; align-items: flex-start;">
+  <div style="flex: 1;">
+    I'm Garam Yoon, a Junior QA Engineer currently interning at Bonniepet, where I focus on mobile-first testing and quality assurance. I'm drawn to building reliable software through thoughtful testing practices, whether that's designing comprehensive test cases, documenting bugs systematically, or collaborating with teams to improve product quality. Beyond my day-to-day work, I read widely about QA and testing, and I'm actively exploring AI, data, and cloud technologies. These emerging areas intrigue me, and I'm committed to building expertise across them as I grow as an engineer.
+  </div>
+  <img src="assets/MyAvatar.png" width="150" style="border-radius: 10px;" />
+</div>
 
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
 
@@ -21,6 +26,7 @@ I'm Garam Yoon, a Junior QA Engineer currently interning at Bonniepet, where I f
 - API, System, UI/UX, DB
 - Functional & Non-functional
 - Requirement-based & Risk-based
+- Manual & Automation
 - Mobile & Web
 
 ## Programming Languages
@@ -33,26 +39,29 @@ I'm Garam Yoon, a Junior QA Engineer currently interning at Bonniepet, where I f
 
 ## Tools
 
-**Issue Tracking & Documentation:**  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Version Control:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
 **API & Testing Tools:**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square&logo=thunder&logoColor=white)
 
-**UI & Automation:**  
+**UI & Automation**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 
-**Development & Debugging:**  
+**Testing & Unit:**  
+![JUnit](https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white)
+![Testem](https://img.shields.io/badge/Testem-0071B5?style=flat-square&logoColor=white)
+
+**Issue Tracking & Documentation**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+**Version Control**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Development & Debugging**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
