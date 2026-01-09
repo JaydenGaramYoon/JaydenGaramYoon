@@ -12,7 +12,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 - 🌱 Learning about AI, Data & Cloud technologies
 - Engaging with QA communities
 
-<div align="right">
+<div align="center">
 
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
 
