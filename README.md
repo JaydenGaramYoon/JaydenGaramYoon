@@ -4,8 +4,8 @@
 
 Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in software quality, mobile-first testing, and requirements-based validation. I am particularly focused on release quality, regression risk reduction, and clear QA documentation, and I continuously work on improving my skills through projects, automation practice, and technical reading.
 
-#### [LinkedIn](https://www.linkedin.com/in/garam-yoon/)  
-#### [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garam-yoon/)
+[![QA Projects](https://img.shields.io/badge/QA%20Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaydenGaramYoon/QA-Projects)
 
 ## Experience
 
@@ -83,9 +83,9 @@ Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in so
 
 ## Certificates
 
-- ISTQB Certified Tester Foundation Level (CTFL) | Testing Throughout the SDLC, Static Testing, Test Analysis & Design, Test Activities Management, Test Tools
-- ISTQB Certified Agile Tester (CTFL-AT) | Agile Software Development, Fundamental Agile Testing Principles, Practices and Processes, Agile Testing Methods, Techniques and Tools
-- Centennial Hackathon Winner (Centennial College) | AI Chatbot for Student Wellbeing
+- ISTQB Certified Tester Foundation Level (CTFL)
+- ISTQB Certified Agile Tester (CTFL-AT)
+- Centennial Hackathon Winner (Centennial College) | *AI Chatbot for Student Wellbeing*
 
 ## Articles I Read
 
