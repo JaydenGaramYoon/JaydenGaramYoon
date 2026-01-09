@@ -29,8 +29,8 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <h2 align="center">Skills & Tools</h2>
 
-<div style="display: flex; justify-content: center;">
-<table style="width: auto; display: table; table-layout: fixed; margin: 0 auto;">
+<div style="text-align: center;">
+<table style="width: auto; display: inline-table; table-layout: fixed; margin: 0 auto;">
 <tr>
 <td style="padding: 20px; width: 200px; box-sizing: border-box;">
 <strong>Testing Skills</strong><br/>
