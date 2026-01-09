@@ -2,15 +2,13 @@
 
 <img align="right" src="assets/MyAvatar.png" width="150" style="border-radius: 10px; margin-left: 20px;" />
 
-My name is **Garam Yoon**
-
-🧪 Junior QA Engineer interning at Bonniepet, focusing on mobile-first testing and quality assurance  
-💼 Passionate about building reliable software through thoughtful testing practices  
-📝 Designing comprehensive test cases and documenting bugs systematically  
-👥 Collaborating with teams to improve product quality  
-📚 Reading widely about QA and testing best practices  
-🚀 Actively exploring AI, data, and cloud technologies  
-🎯 Committed to building expertise across emerging areas as I grow as an engineer
+- Junior QA Engineer Intern @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*  
+- [Passionate about building reliable software through thoughtful testing practices](#testing-skills)  
+- [Designing comprehensive test cases and documenting bugs systematically](#testing-skills)  
+- [Collaborating with teams to improve product quality](#soft-skills)  
+- [Reading widely about QA and testing best practices](#articles-i-read)  
+- [Actively exploring AI, data, and cloud technologies](#courses)  
+- I write technical blog, [Doing Is Learning](https://www.notion.so/Writing-Effective-Postman-Test-Scripts-2d997141ccc380d9abbbe26c08f8f546?pvs=74)
 
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
 
@@ -122,7 +120,7 @@ My name is **Garam Yoon**
 
 <h2 align="center">My Top 3 Latest Blogs</h2>
 
-- [Writing Effective Postman Test Scripts](https://www.notion.so/1e097141ccc38075bc31eb034c0910ef?v=1e097141ccc380219636000c91bf3741&p=2d997141ccc380d9abbbe26c08f8f546&pm=s)
+- [Writing Effective Postman Test Scripts](https://www.notion.so/Writing-Effective-Postman-Test-Scripts-2d997141ccc380d9abbbe26c08f8f546?pvs=74) (Technical Blog)
 - [Mastering the Art of "Done": How Clear Acceptance Criteria Drive Better Software Testing](https://www.notion.so/Mastering-the-Art-of-Done-How-Clear-Acceptance-Criteria-Drive-Better-Software-Testing-29197141ccc380188059e2ae296714e5)
 - [The Importance of Negative Path Testing in Acceptance Test-Driven Development](https://www.notion.so/The-Importance-of-Negative-Path-Testing-in-Acceptance-Test-Driven-Development-ATDD-29397141ccc38095adcdf838f49ca42d)
 
