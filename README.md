@@ -29,9 +29,9 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <h2 align="center">Skills & Tools</h2>
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<table style="border-collapse: collapse; border: none; width: 100%; table-layout: fixed;">
 <tr>
-<td style="border: none; padding: 10px; width: 25%;">
+<td style="border: none; padding: 15px; width: 25%; box-sizing: border-box;">
 <strong>Testing Skills</strong><br/>
 • API, System, UI/UX, DB<br/>
 • Functional & Non-functional<br/>
@@ -39,7 +39,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 • Manual & Automation<br/>
 • Mobile & Web
 </td>
-<td style="border: none; padding: 10px; width: 25%; text-align: center;">
+<td style="border: none; padding: 15px; width: 25%; text-align: center; box-sizing: border-box;">
 <strong>Languages</strong><br/><br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"><br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br/>
@@ -47,7 +47,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
 </td>
-<td style="border: none; padding: 10px; width: 25%; text-align: center;">
+<td style="border: none; padding: 15px; width: 25%; text-align: center; box-sizing: border-box;">
 <strong>Tools</strong><br/><br/>
 <strong style="font-size: 12px;">API & Testing</strong><br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"><br/>
