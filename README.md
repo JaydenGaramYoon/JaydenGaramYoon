@@ -1,8 +1,10 @@
 # Hi, there! I'm Garam Yoon
 
-<img src="assets/MyAvatar.png" width="250" style="float: left; margin-right: 20px; border-radius: 10px;" />
+<img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px;" />
 
-- Junior QA Engineer at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
+I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering smarter testing approaches. Detail-oriented and always curious about how things fail.
+
+- Junior Software QA Tester at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
 - 💭 I like to learn, grow, and collaborate.
 - Focused on building reliable, well-tested systems
 - 📖 Writing technical blogs, [Doing Is Learning](https://www.notion.so/1e097141ccc38075bc31eb034c0910ef?v=1e097141ccc380219636000c91bf3741)
@@ -10,9 +12,7 @@
 - 🌱 Learning about AI, Data & Cloud technologies
 - Engaging with QA communities
 
-#### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
-
-#### 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
+#### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
 
 <h2 align="center">Experience</h2>
 
