@@ -99,25 +99,25 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <h2 align="center">Articles I Read</h2>
 
-- [Test Case Prioritization: Complete Guide to Techniques, Metrics, and Best Practices](https://www.testrail.com/blog/test-case-prioritization/)
-- [Prioritizing Test Cases: Best Practice for QA Teams](https://www.pixelqa.com/blog/post/prioritizing-test-cases-best-practice-for-qa-teams)
-- [Test Plan Template - Software Testing](https://www.geeksforgeeks.org/software-testing/test-plan-template/)
-- [Test plan template](https://www.atlassian.com/software/confluence/resources/guides/how-to/test-plan)
-- [Testing Objectives: Key Goals & Examples for Effective Software QA](https://iteratorstesting.com/blog/testing-objectives)
-- [Software Testing Strategies](https://www.geeksforgeeks.org/software-engineering/software-testing-strategies/)
-- [Software Testing Metrics](https://www.geeksforgeeks.org/software-testing/software-testing-metrics-its-types-and-example/)
-- [Defining Exit Criteria for All Stages of Your Agile Project](https://www.testrail.com/blog/agile-exit-criteria/)
-- [DORA metrics in 2023: 5 ways to measure DevOps performance](https://www.getunleash.io/blog/dora-metrics-devops-performance)
-- [DORA Metrics](https://www.atlassian.com/devops/frameworks/dora-metrics)
-- [How to identify and manage software testing risks](https://smartbear.com/blog/software-testing-risks/)
-- [Web Application Security Threats in 2025: 10 Critical Risks Every Organization Must Address](https://www.stackhawk.com/blog/10-web-application-security-threats-and-how-to-mitigate-them/)
-- [Web Security Risks in Modern Applications](https://www.micromindercs.com/blog/web-security-risks-in-modern-applications)
-- [15 Mistakes in E-Commerce Platforms You Can Prevent with Software Testing](https://www.qamadness.com/15-mistakes-in-e-commerce-platforms-you-can-prevent-with-software-testing/)
-- [Critical Software Bugs Every Tester Should Know](https://quashbugs.com/blog/critical-software-bugs-every-tester-should-know)
+- [Test Case Prioritization: Complete Guide to Techniques, Metrics, and Best Practices](https://www.testrail.com/blog/test-case-prioritization/) | TestRail
+- [Prioritizing Test Cases: Best Practice for QA Teams](https://www.pixelqa.com/blog/post/prioritizing-test-cases-best-practice-for-qa-teams) | PixelQA
+- [Test Plan Template - Software Testing](https://www.geeksforgeeks.org/software-testing/test-plan-template/) | GeeksforGeeks
+- [Test plan template](https://www.atlassian.com/software/confluence/resources/guides/how-to/test-plan) | Atlassian
+- [Testing Objectives: Key Goals & Examples for Effective Software QA](https://iteratorstesting.com/blog/testing-objectives) | Iterator's Testing
+- [Software Testing Strategies](https://www.geeksforgeeks.org/software-engineering/software-testing-strategies/) | GeeksforGeeks
+- [Software Testing Metrics](https://www.geeksforgeeks.org/software-testing/software-testing-metrics-its-types-and-example/) | GeeksforGeeks
+- [Defining Exit Criteria for All Stages of Your Agile Project](https://www.testrail.com/blog/agile-exit-criteria/) | TestRail
+- [DORA metrics in 2023: 5 ways to measure DevOps performance](https://www.getunleash.io/blog/dora-metrics-devops-performance) | Unleash
+- [DORA Metrics](https://www.atlassian.com/devops/frameworks/dora-metrics) | Atlassian
+- [How to identify and manage software testing risks](https://smartbear.com/blog/software-testing-risks/) | SmartBear
+- [Web Application Security Threats in 2025: 10 Critical Risks Every Organization Must Address](https://www.stackhawk.com/blog/10-web-application-security-threats-and-how-to-mitigate-them/) | StackHawk
+- [Web Security Risks in Modern Applications](https://www.micromindercs.com/blog/web-security-risks-in-modern-applications) | MicroMinder
+- [15 Mistakes in E-Commerce Platforms You Can Prevent with Software Testing](https://www.qamadness.com/15-mistakes-in-e-commerce-platforms-you-can-prevent-with-software-testing/) | QA Madness
+- [Critical Software Bugs Every Tester Should Know](https://quashbugs.com/blog/critical-software-bugs-every-tester-should-know) | Quash
 
 <h2 align="center">My Top 3 Latest Blogs</h2>
 
-- [Writing Effective Postman Test Scripts](https://www.notion.so/Writing-Effective-Postman-Test-Scripts-2d997141ccc380d9abbbe26c08f8f546?pvs=74) (Technical Blog)
+- [Writing Effective Postman Test Scripts](https://www.notion.so/Writing-Effective-Postman-Test-Scripts-2d997141ccc380d9abbbe26c08f8f546?pvs=74) 
 - [Mastering the Art of "Done": How Clear Acceptance Criteria Drive Better Software Testing](https://www.notion.so/Mastering-the-Art-of-Done-How-Clear-Acceptance-Criteria-Drive-Better-Software-Testing-29197141ccc380188059e2ae296714e5)
 - [The Importance of Negative Path Testing in Acceptance Test-Driven Development](https://www.notion.so/The-Importance-of-Negative-Path-Testing-in-Acceptance-Test-Driven-Development-ATDD-29397141ccc38095adcdf838f49ca42d)
 
