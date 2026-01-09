@@ -42,31 +42,31 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 </td>
 <td style="padding: 20px; flex: 1; min-width: 150px; text-align: center;">
 <strong>Languages</strong><br/><br/>
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)<br/>
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"><br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
 </td>
 <td style="padding: 20px; flex: 2; min-width: 300px; text-align: center;">
 <strong>Tools</strong><br/><br/>
 <strong style="font-size: 13px;">API & Testing</strong><br/>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)<br/>
-![Thunder Client](https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square)<br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"><br/>
+<img src="https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square" alt="Thunder Client"><br/>
 <strong style="font-size: 13px; margin-top: 10px;">Automation</strong><br/>
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)<br/>
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)<br/>
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)<br/>
-![JUnit](https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white)<br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"><br/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"><br/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber"><br/>
+<img src="https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"><br/>
 <strong style="font-size: 13px; margin-top: 10px;">Management</strong><br/>
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)<br/>
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square)<br/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"><br/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square" alt="Confluence"><br/>
 <strong style="font-size: 13px; margin-top: 10px;">Dev & Version</strong><br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br/>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)<br/>
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)<br/>
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)<br/>
-![Chrome DevTools](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"><br/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"><br/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome DevTools">
 </td>
 <td style="padding: 20px; flex: 1; min-width: 150px;">
 <strong>Soft Skills</strong><br/>
