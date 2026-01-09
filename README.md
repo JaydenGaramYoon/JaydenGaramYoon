@@ -30,7 +30,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <h2 align="center">Skills & Tools</h2>
 
 <div align="center">
-<table style="width: auto; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="padding: 20px; width: 200px; box-sizing: border-box;">
 <strong>Testing Skills</strong><br/>
