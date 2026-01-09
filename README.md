@@ -67,7 +67,7 @@ Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in so
 
 ## Courses
 
-### Centennial College (Software Engineering Technician)
+**🎓 Centennial College (Software Engineering Technician)**
 
 | Course | Learning Objectives |
 |--------|---------------------|
