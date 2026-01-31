@@ -96,6 +96,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <h2 align="center">Certificates</h2>
 
+- Postman API Fundamentals Student Expert
 - ISTQB Certified Tester Foundation Level (CTFL)
 - ISTQB Certified Agile Tester (CTFL-AT)
 - Centennial Hackathon Winner (Centennial College) | *AI Chatbot for Student Wellbeing*
