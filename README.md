@@ -24,7 +24,7 @@ I'm a QA Engineer with 2+ years experience who enjoys hunting bugs in unconventi
 
 <h2 align="center">Experience</h2>
 
-**Software QA Tester Intern** @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Present*
+**QA Tester/Engineer Intern** @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Present*
 - Support QA activities for a mobile-first consumer platform
 - Executed functional, regression, and negative-path testing across core workflows
 - Create comprehensive bug reports with detailed root cause analysis and best testing practices research
@@ -133,3 +133,4 @@ I'm a QA Engineer with 2+ years experience who enjoys hunting bugs in unconventi
 - [Software Testing & Automation ](https://www.linkedin.com/groups/55636/)
 - [Quality Assurance - QA Professional, Testing, Test Automation, SDET](https://www.linkedin.com/groups/60879/)
 - [Software Testing and Quality Assurance group ](https://www.linkedin.com/groups/23402/)
+
