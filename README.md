@@ -18,7 +18,7 @@ I'm a QA Engineer with 2+ years experience who enjoys hunting bugs in unconventi
 
 <div align="center">
 
-### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [Hybrid Automation Framework]([https://github.com/JaydenGaramYoon/QA-Projects](https://github.com/JaydenGaramYoon/Hybrid-Automation-Framework])
+### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [Hybrid Automation Framework](https://github.com/JaydenGaramYoon/QA-Projects](https://github.com/JaydenGaramYoon/Hybrid-Automation-Framework)
 
 </div>
 
